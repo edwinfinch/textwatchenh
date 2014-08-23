@@ -270,8 +270,8 @@ static void init() {
 	window_set_background_color(window, GColorBlack);
 
 	// Custom fonts
-	lightFont = fonts_load_custom_font(resource_get_handle(RESOURCE_ID_FONT_GOTHAM_LIGHT_39));
-	boldFont = fonts_load_custom_font(resource_get_handle(RESOURCE_ID_FONT_GOTHAM_BOLD_43));
+	lightFont = fonts_load_custom_font(resource_get_handle(RESOURCE_ID_FONT_GOTHAM_LIGHT_37));
+	boldFont = fonts_load_custom_font(resource_get_handle(RESOURCE_ID_FONT_GOTHAM_BOLD_41));
 
 	// 1st line layers
 	line1.currentLayer = text_layer_create(GRect(0, 16, 144, 50));

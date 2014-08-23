@@ -16,12 +16,12 @@
             },
             {
                 "file": "fonts/gotham_bold_36.ttf",
-                "name": "FONT_GOTHAM_BOLD_43",
+                "name": "FONT_GOTHAM_BOLD_41",
                 "type": "font"
             },
             {
                 "file": "fonts/gotham_light_31.ttf",
-                "name": "FONT_GOTHAM_LIGHT_39",
+                "name": "FONT_GOTHAM_LIGHT_37",
                 "type": "font"
             }
         ]
